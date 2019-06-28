@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kenleemyth.github.io/pkl.cc/</id>
-    <title>趣果Tech</title>
-    <updated>2019-06-27T07:15:26.485Z</updated>
+    <title>优能石油</title>
+    <updated>2019-06-28T01:54:21.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kenleemyth.github.io/pkl.cc/"/>
     <link rel="self" href="https://kenleemyth.github.io/pkl.cc//atom.xml"/>
-    <subtitle>趣果科技技术团队博客</subtitle>
+    <subtitle>优能石油</subtitle>
     <logo>https://kenleemyth.github.io/pkl.cc//images/avatar.png</logo>
     <icon>https://kenleemyth.github.io/pkl.cc//favicon.ico</icon>
-    <rights>All rights reserved 2019, 趣果Tech</rights>
+    <rights>All rights reserved 2019, 优能石油</rights>
+    <entry>
+        <title type="html"><![CDATA[公司logo]]></title>
+        <id>https://kenleemyth.github.io/pkl.cc//post/ce-shi</id>
+        <link href="https://kenleemyth.github.io/pkl.cc//post/ce-shi">
+        </link>
+        <updated>2019-06-27T07:16:19.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://kenleemyth.github.io/pkl.cc//post-images/1561686846019.png" alt=""></p>
+]]></content>
+    </entry>
 </feed>
