@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kenleemyth.github.io/pkl.cc/</id>
     <title>优能石油</title>
-    <updated>2019-06-28T01:55:16.319Z</updated>
+    <updated>2019-06-28T01:57:28.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kenleemyth.github.io/pkl.cc/"/>
     <link rel="self" href="https://kenleemyth.github.io/pkl.cc//atom.xml"/>
@@ -10,6 +10,33 @@
     <logo>https://kenleemyth.github.io/pkl.cc//images/avatar.png</logo>
     <icon>https://kenleemyth.github.io/pkl.cc//favicon.ico</icon>
     <rights>All rights reserved 2019, 优能石油</rights>
+    <entry>
+        <title type="html"><![CDATA[优能石油油价下跌，加满一缸油劲省110元！]]></title>
+        <id>https://kenleemyth.github.io/pkl.cc//post/you-neng-shi-you-you-jie-xia-die-jia-man-yi-gang-you-jing-sheng-110-yuan</id>
+        <link href="https://kenleemyth.github.io/pkl.cc//post/you-neng-shi-you-you-jie-xia-die-jia-man-yi-gang-you-jing-sheng-110-yuan">
+        </link>
+        <updated>2019-06-28T01:56:56.000Z</updated>
+        <content type="html"><![CDATA[<p>预计今晚24点各标号油价下调幅度如下：
+92#汽油下调0.09元/升
+95#汽油下调0.09-0.10元/升
+98#汽油下调0.09-0.11元/升
+0#柴油下调0.09元/升
+（最终油价调整情况请以发改委公布的调价文件为准）</p>
+<p>【周四会员日】</p>
+<p>U仔简单的帮大家计算油价下跌（0.1元）+会员日（1.5元），92#加满可劲省多少钱？</p>
+<p>油箱70升省112元</p>
+<p>油箱50升省80元</p>
+<p>油箱40升省64元</p>
+<p>优惠条件：加油超250元以上
+会员日U支付优惠：
+92#汽油：1.5元/升
+95#、98#汽油：1.0元/升
+活动油站：逢沙站、北滘站、陈村锦龙站、陈村南涌站（点击站点导航）</p>
+<p>油卡充值赠送：
+加油卡（汽油）一次性充值2000元以上可享9折赠送，即充值2000元送200元，如此类推，多充多送！
+活动时间：6月20日-6月30日</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[公司logo]]></title>
         <id>https://kenleemyth.github.io/pkl.cc//post/ce-shi</id>
